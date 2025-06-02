@@ -9,7 +9,7 @@ public class RailwayApis {
 
     @GetMapping("/getRailway")
     public String getRailway(){
-        System.out.println("Testing Railway Success.....");
+        System.out.println("Testing Railway  AMAN Success.....");
         return "Railway";
     }
 
